@@ -1,0 +1,58 @@
+AU                      1.495978707e11
+G                       1.9853e-29
+
+SunMass                 1.989e30
+SunPositionX            0
+SunPositionY            0
+SunPositionZ            0
+SunVelocityX            0
+SunVelocityY            0
+SunVelocityZ            0
+
+VenusMass               4.867e24
+VenusPositionX          -1.082e11
+VenusPositionY          0
+VenusPositionZ          6.411e9
+VenusVelocityX          0
+VenusVelocityY          -3.502e4
+VenusVelocityZ          0
+
+EarthMass               5.972e24
+EarthPositionX          1.496e11
+EarthPositionY          0
+EarthPositionZ          0
+EarthVelocityX          0
+EarthVelocityY          2.978e4
+EarthVelocityZ          0
+
+MarsMass                6.417e23
+MarsPositionX           0
+MarsPositionY           2.279e11
+MarsPositionZ           7.359e9
+MarsVelocityX           -2.401e4
+MarsVelocityY           0
+MarsVelocityZ           0
+
+JupiterMass             1.898e27
+JupiterPositionX        0
+JupiterPositionY        -7.785e11
+JupiterPositionZ        -1.77e10
+JupiterVelocityX        1.307e4
+JupiterVelocityY        0
+JupiterVelocityZ        0
+
+NeutronStarMass         4.0e30
+NeutronStarPositionX    0
+NeutronStarPositionY    0
+NeutronStarPositionZ    1.0e15
+NeutronStarVelocityX    1.2e2
+NeutronStarVelocityY    0
+NeutronStarVelocityZ    -1.0e5
+
+AlteredStarMass         4.0e30
+AlteredStarPositionX    0
+AlteredStarPositionY    0
+AlteredStarPositionZ    1.0e15
+AlteredStarVelocityX    0.5e2
+AlteredStarVelocityY    0
+AlteredStarVelocityZ    -1.0e5
